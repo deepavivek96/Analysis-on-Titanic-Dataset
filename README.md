@@ -7,3 +7,4 @@ Data Retrieval
 Data Pre-processing (handled missing values)
 Decisison Tree using R (packages: rpart, rattle)
 K-mean clustering using Tableau - R integration by invoking Rserve()
+ 
